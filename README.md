@@ -9,10 +9,14 @@
 
 ## DB 설계
 
+![Uglory](https://user-images.githubusercontent.com/106005368/186693066-d2d85475-c213-4c6d-882a-05d9f5df6289.png)
+
 <br>
 
 
 ## 사용언어 및 개발 툴
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
